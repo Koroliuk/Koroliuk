@@ -1,12 +1,10 @@
-<code>🎓 Student: KPI / IM-11</code>
-<code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
+<code>🖥️ Place of work: EPAM Systems</code>
+<code>🎓 Student: KPI / IP-94</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C++</code>
-<code>📦 Tech stack: node.js</code>
+<code>🧑‍💻 Languages: Java, Kotlin, C#, Python</code>
+<code>📦 Tech stack: Spring, Micronaut, ASP .NET</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>💬 telegram: [@Koroliuk_Yaroslav](https://t.me/Koroliuk_Yaroslav)</code>
+<code>📫 [koroliuk.yaroslav@gmail.com](mailto:koroliuk.yaroslav@gmail.com)</code><br>
+<code>💬 hackerrank: [Koroliuk]([https://t.me/Koroliuk_Yaroslav](https://www.hackerrank.com/Koroliuk)</code>
