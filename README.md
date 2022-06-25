@@ -7,4 +7,4 @@
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@Koroliuk_Yaroslav](https://t.me/Koroliuk_Yaroslav)</code>
 <code>📫 [koroliuk.yaroslav@gmail.com](mailto:koroliuk.yaroslav@gmail.com)</code><br>
-<code>💬 hackerrank: [Koroliuk]([https://t.me/Koroliuk_Yaroslav](https://www.hackerrank.com/Koroliuk)</code>
+<code>💬 hackerrank: [Koroliuk](https://t.me/Koroliuk_Yaroslav](https://www.hackerrank.com/Koroliuk)</code>
