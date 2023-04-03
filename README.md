@@ -3,7 +3,7 @@
 <code>🎓 Student: KPI / IP-94</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>📝 [Experience](EXPERIENCE.md)</code><br>
-<code>🧑‍💻 Languages: Java, Kotlin, C#, Python</code>
+<code>🧑‍💻 Languages: Java, Kotlin, C#, Python, Haskell, JavaScript</code>
 <code>📦 Tech stack: Spring, ASP .NET</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@Koroliuk_Yaroslav](https://t.me/Koroliuk_Yaroslav)</code>
