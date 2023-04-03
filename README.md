@@ -1,4 +1,4 @@
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>👷 Speciality: Middle Software engineer / Backend</code><br>
 <code>🖥️ Place of work: EPAM Systems</code>
 <code>🎓 Student: KPI / IP-94</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
