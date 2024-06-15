@@ -1,4 +1,4 @@
-<code>👷 Speciality: Senior Software engineer / Backend</code><br>
+<code>👷 Speciality: Experienced Software engineer / Backend</code><br>
 <code>🖥️ Place of work: EPAM Systems</code>
 <code>🎓 Student: KPI / IM-31mp</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
