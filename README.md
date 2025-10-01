@@ -1,6 +1,6 @@
 <code>👷 Speciality: Experienced Software engineer / Backend</code><br>
 <code>🖥️ Place of work: EPAM Systems</code>
-<code>🎓 Student: KPI / IM-31mp</code><br>
+<code>🎓 Getting PhD at National Technical University of Ukraine 'Kyiv Polytechnic Institute'​
 <code>💡 [Skills](SKILLS.md)</code>
 <code>📝 [Experience](EXPERIENCE.md)</code><br>
 <code>🧑‍💻 Languages: Java, Kotlin, C#, Python, Haskell, JavaScript</code>
